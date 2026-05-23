@@ -1,5 +1,5 @@
-# FormCheck 🏋️
-**AI-powered bodyweight exercise form analyzer**
+# SigmaReps
+**Bodyweight exercise form Analyzer**
 
 ---
 
